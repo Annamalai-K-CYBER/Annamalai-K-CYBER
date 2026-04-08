@@ -92,5 +92,5 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<!-- Add your links here -->
+<a href="annamalai.kgm@gmail.com">Mail Me</a>
 </p>
